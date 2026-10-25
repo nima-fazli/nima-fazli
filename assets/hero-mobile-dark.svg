@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="224" viewBox="0 0 560 224" role="img" aria-labelledby="title desc">
+  <title id="title">Nima Fazli — AI and Backend Developer</title>
+  <desc id="desc">Original artwork for Nima Fazli's GitHub profile.</desc>
+  <defs><linearGradient id="top" x2="1" y2="1"><stop stop-color="#72c6ff" stop-opacity=".9"/><stop offset="1" stop-color="#2977ef" stop-opacity=".64"/></linearGradient>
+      <linearGradient id="left" x2="1" y2="1"><stop stop-color="#2869d1" stop-opacity=".64"/><stop offset="1" stop-color="#153b9b" stop-opacity=".4"/></linearGradient>
+      <linearGradient id="right" x2="1" y2="1"><stop stop-color="#3e8dff" stop-opacity=".66"/><stop offset="1" stop-color="#6b37df" stop-opacity=".7"/></linearGradient><linearGradient id="back" x2="1" y2=".2"><stop stop-color="#0d1625"/><stop offset=".58" stop-color="#0d1625"/><stop offset="1" stop-color="#172955"/></linearGradient>
+      <radialGradient id="halo"><stop stop-color="#6b42ff" stop-opacity=".31"/><stop offset="1" stop-color="#6b42ff" stop-opacity="0"/></radialGradient></defs>
+  <rect x="1" y="1" width="558" height="222" rx="14" fill="url(#back)" stroke="#283b56"/><ellipse cx="510" cy="90" rx="160" ry="180" fill="url(#halo)"/><text x="28" y="45" fill="#70b1ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="2.1">AI &amp; BACKEND DEVELOPMENT</text><text x="27" y="101" fill="#eef4ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="38" font-weight="700" >Hi, I&#x27;m</text><text x="176" y="101" fill="#70b1ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="38" font-weight="700" >Nima Fazli</text><text x="28" y="145" fill="#adbed8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="400" >Turning ideas into useful AI systems.</text><text x="28" y="187" fill="#adbed8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="9" font-weight="500" letter-spacing="1.6">AI AGENTS  /  RAG  /  BACKEND</text><g opacity="0.8" stroke="#73b6ff" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M 490 65 L 515.114 79.5 L 490 94 L 464.886 79.5 Z" fill="url(#top)"/>
+      <path d="M 464.886 79.5 L 490 94 L 490 123 L 464.886 108.5 Z" fill="url(#left)"/>
+      <path d="M 490 94 L 515.114 79.5 L 515.114 108.5 L 490 123 Z" fill="url(#right)"/>
+    </g><g opacity="0.5" stroke="#73b6ff" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M 454 156 L 470.454 165.5 L 454 175 L 437.546 165.5 Z" fill="url(#top)"/>
+      <path d="M 437.546 165.5 L 454 175 L 454 194 L 437.546 184.5 Z" fill="url(#left)"/>
+      <path d="M 454 175 L 470.454 165.5 L 470.454 184.5 L 454 194 Z" fill="url(#right)"/>
+    </g>
+</svg>

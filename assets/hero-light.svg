@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300" role="img" aria-labelledby="title desc">
+  <title id="title">Nima Fazli — AI and Backend Developer</title>
+  <desc id="desc">Original artwork for Nima Fazli's GitHub profile.</desc>
+  <defs><linearGradient id="top" x2="1" y2="1"><stop stop-color="#72c6ff" stop-opacity=".9"/><stop offset="1" stop-color="#2977ef" stop-opacity=".64"/></linearGradient>
+      <linearGradient id="left" x2="1" y2="1"><stop stop-color="#2869d1" stop-opacity=".64"/><stop offset="1" stop-color="#153b9b" stop-opacity=".4"/></linearGradient>
+      <linearGradient id="right" x2="1" y2="1"><stop stop-color="#3e8dff" stop-opacity=".66"/><stop offset="1" stop-color="#6b37df" stop-opacity=".7"/></linearGradient><linearGradient id="back" x2="1" y2=".2"><stop stop-color="#f1f6ff"/><stop offset=".58" stop-color="#f1f6ff"/><stop offset="1" stop-color="#dce8ff"/></linearGradient>
+      <radialGradient id="halo"><stop stop-color="#6b42ff" stop-opacity=".13"/><stop offset="1" stop-color="#6b42ff" stop-opacity="0"/></radialGradient></defs>
+  <rect x="1" y="1" width="1118" height="298" rx="18" fill="url(#back)" stroke="#ccdaf0"/>
+<ellipse cx="1000" cy="100" rx="260" ry="240" fill="url(#halo)"/>
+<path d="M715 298 L935 95" fill="none" stroke="#1763ca" stroke-opacity=".07"/>
+<path d="M775 298 L995 95" fill="none" stroke="#1763ca" stroke-opacity=".07"/>
+<path d="M835 298 L1055 95" fill="none" stroke="#1763ca" stroke-opacity=".07"/>
+<path d="M895 298 L1115 95" fill="none" stroke="#1763ca" stroke-opacity=".07"/>
+<path d="M955 298 L1175 95" fill="none" stroke="#1763ca" stroke-opacity=".07"/>
+<path d="M1015 298 L1235 95" fill="none" stroke="#1763ca" stroke-opacity=".07"/>
+<path d="M1075 298 L1295 95" fill="none" stroke="#1763ca" stroke-opacity=".07"/>
+<text x="52" y="77" fill="#1763ca" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4">AI &amp; BACKEND DEVELOPMENT</text>
+<text x="50" y="154" fill="#15243b" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="59" font-weight="700" >Hi, I&#x27;m</text>
+<text x="280" y="154" fill="#1763ca" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="59" font-weight="700" >Nima Fazli</text>
+<text x="52" y="203" fill="#4b6180" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="400" >Turning ideas into useful AI systems.</text>
+<path d="M52 238 H104" stroke="#4d9fff" stroke-width="3" stroke-linecap="round"/>
+<text x="121" y="243" fill="#4b6180" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="2">AI AGENTS  /  RAG  /  BACKEND</text>
+<g fill="none" stroke="#4d9fff" stroke-width="1.5" opacity=".65"><path d="M763 215 Q738 197 763 173 L842 130 H973 V70 H1040"/><path d="M882 145 V211 H1007 V235"/></g>
+<circle cx="763" cy="215" r="9" fill="#4d9fff" opacity=".13"/><circle cx="763" cy="215" r="3" fill="#85d7ff"/>
+<circle cx="842" cy="130" r="9" fill="#4d9fff" opacity=".13"/><circle cx="842" cy="130" r="3" fill="#85d7ff"/>
+<circle cx="973" cy="70" r="9" fill="#4d9fff" opacity=".13"/><circle cx="973" cy="70" r="3" fill="#85d7ff"/>
+<circle cx="1040" cy="70" r="9" fill="#4d9fff" opacity=".13"/><circle cx="1040" cy="70" r="3" fill="#85d7ff"/>
+<circle cx="1007" cy="235" r="9" fill="#4d9fff" opacity=".13"/><circle cx="1007" cy="235" r="3" fill="#85d7ff"/>
+<g opacity="1" stroke="#73b6ff" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M 871 57 L 926.424 89.0 L 871 121 L 815.576 89.0 Z" fill="url(#top)"/>
+      <path d="M 815.576 89.0 L 871 121 L 871 185 L 815.576 153.0 Z" fill="url(#left)"/>
+      <path d="M 871 121 L 926.424 89.0 L 926.424 153.0 L 871 185 Z" fill="url(#right)"/>
+    </g>
+<g opacity="1" stroke="#73b6ff" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M 987 151 L 1033.764 178.0 L 987 205 L 940.236 178.0 Z" fill="url(#top)"/>
+      <path d="M 940.236 178.0 L 987 205 L 987 259 L 940.236 232.0 Z" fill="url(#left)"/>
+      <path d="M 987 205 L 1033.764 178.0 L 1033.764 232.0 L 987 259 Z" fill="url(#right)"/>
+    </g>
+<g opacity="0.65" stroke="#73b6ff" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M 1046 73 L 1072.846 88.5 L 1046 104 L 1019.154 88.5 Z" fill="url(#top)"/>
+      <path d="M 1019.154 88.5 L 1046 104 L 1046 135 L 1019.154 119.5 Z" fill="url(#left)"/>
+      <path d="M 1046 104 L 1072.846 88.5 L 1072.846 119.5 L 1046 135 Z" fill="url(#right)"/>
+    </g>
+<g opacity="0.35" stroke="#73b6ff" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M 775 219 L 792.32 229.0 L 775 239 L 757.68 229.0 Z" fill="url(#top)"/>
+      <path d="M 757.68 229.0 L 775 239 L 775 259 L 757.68 249.0 Z" fill="url(#left)"/>
+      <path d="M 775 239 L 792.32 229.0 L 792.32 249.0 L 775 259 Z" fill="url(#right)"/>
+    </g>
+</svg>

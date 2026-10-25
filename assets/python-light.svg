@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="84" viewBox="0 0 208 84" role="img" aria-labelledby="title desc">
+  <title id="title">Python</title>
+  <desc id="desc">Original artwork for Nima Fazli's GitHub profile.</desc>
+  <defs></defs>
+  <rect x="1" y="1" width="206" height="70" rx="12" fill="#f1f6ff" stroke="#ccdaf0"/><g transform="translate(17 18)" color="#78b9ff"><path d="M9 7Q9 2 17 2H25Q32 2 32 9V19H18V23H5Q1 23 1 16V12Q1 7 9 7Z" fill="#4d9fff"/><path d="M27 29Q27 34 19 34H11Q4 34 4 27V17H18V13H31Q35 13 35 20V24Q35 29 27 29Z" fill="#f3c84b"/><circle cx="17" cy="7" r="1.6" fill="#fff"/><circle cx="19" cy="29" r="1.6" fill="#fff"/></g><text x="66" y="44" fill="#15243b" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600" >Python</text>
+</svg>

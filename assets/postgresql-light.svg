@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="84" viewBox="0 0 208 84" role="img" aria-labelledby="title desc">
+  <title id="title">PostgreSQL</title>
+  <desc id="desc">Original artwork for Nima Fazli's GitHub profile.</desc>
+  <defs></defs>
+  <rect x="1" y="1" width="206" height="70" rx="12" fill="#f1f6ff" stroke="#ccdaf0"/><g transform="translate(17 18)" color="#6aafff"><g fill="none" stroke="currentColor" stroke-width="2.4"><ellipse cx="18" cy="8" rx="14" ry="6"/><path d="M4 8V27C4 35 32 35 32 27V8M4 17C4 25 32 25 32 17"/></g></g><text x="66" y="44" fill="#15243b" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600" >PostgreSQL</text>
+</svg>

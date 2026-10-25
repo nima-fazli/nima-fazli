@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="84" viewBox="0 0 208 84" role="img" aria-labelledby="title desc">
+  <title id="title">Ollama</title>
+  <desc id="desc">Original artwork for Nima Fazli's GitHub profile.</desc>
+  <defs></defs>
+  <rect x="1" y="1" width="206" height="70" rx="12" fill="#f1f6ff" stroke="#ccdaf0"/><g transform="translate(17 18)" color="#15243b"><g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 14C5 3 8-2 12 4L16 12M22 12C23 0 29 0 29 7L27 15M9 15C2 18 4 34 12 34H26C34 34 35 19 27 15 21 10 15 10 9 15Z"/><path d="M14 26Q18 30 23 26M18 23V28"/></g><circle cx="12" cy="21" r="1.5" fill="currentColor"/><circle cx="25" cy="21" r="1.5" fill="currentColor"/></g><text x="66" y="44" fill="#15243b" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600" >Ollama</text>
+</svg>
